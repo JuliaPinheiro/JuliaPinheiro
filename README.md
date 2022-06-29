@@ -1,7 +1,7 @@
 ### Oi, eu sou a Julia Pinheiro 😄
 
-- 🔭 Estou em busca de uma oportunidade de estágio ou desenvolvedora júnior.
-- 🌱 Atualmente estou estudando Typescript
+- 🔭 Sou dev Frontend 
+- 🌱 Atualmente estou estudando Typescript e ReactJs
 - 📫 How to reach me:  julia.pinheirooliveira222@gmail.com ou WhatsApp (11) 98435-6347
 - 😄 Pronouns: ela/dela/she/her
 
@@ -13,10 +13,10 @@
 
 
 <div style="display: inline_block"  align="center"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
  <br><br>
