@@ -1,9 +1,8 @@
 ### Oi, eu sou a Julia Pinheiro 😄
 
-- 🔭 Sou dev Frontend 
-- 🌱 Atualmente estou estudando Typescript e ReactJs
-- 📫 How to reach me:  julia.pinheirooliveira222@gmail.com ou WhatsApp (11) 98435-6347
-- 😄 Pronouns: ela/dela/she/her
+-  Sou dev Frontend 
+-  Atualmente estou estudando Typescript e ReactJs
+-  Pronouns: ela/dela/she/her
 
 <div align="center">
   <a href="https://github.com/JuliaPinheiro">
