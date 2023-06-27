@@ -2,7 +2,6 @@
 
 -  Sou dev Frontend estudando Go para me tornar uma futura FullStack
 -  Atualmente estou estudando Typescript, ReactJs e Go.
--  Pronouns: ela/dela/she/her
 
 <div align="center">
   <a href="https://github.com/JuliaPinheiro">
