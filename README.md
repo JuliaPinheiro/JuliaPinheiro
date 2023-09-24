@@ -1,7 +1,7 @@
 ### Oi, eu sou a Julia Pinheiro 😄
 
--  Sou dev Frontend estudando Go para me tornar uma futura FullStack
--  Atualmente estou estudando Typescript, ReactJs e Go.
+-  Sou dev Frontend 
+-  Atualmente estou estudando Typescript, ReactJs e testes unitários.
 
 <div align="center">
   <a href="https://github.com/JuliaPinheiro">
