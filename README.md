@@ -1,6 +1,6 @@
 ### Oi, eu sou a Julia Pinheiro 😄
 
--  Sou dev Frontend 
+-  Sou dev 
 -  Atualmente estou estudando Typescript, ReactJs e testes unitários.
 
 <div align="center">
