@@ -1,7 +1,6 @@
 ### Oi, eu sou a Julia Pinheiro 😄
 
--  Sou dev 
--  Atualmente estou estudando Typescript, ReactJs e testes unitários.
+-  Atualmente, estou estudando Java, os princípios SOLID e Spring Boot para migrar para o backend. Além disso, estou me aprofundando em conceitos de arquitetura de software e práticas recomendadas para desenvolver aplicações robustas e escaláveis.
  
 
 
